@@ -1,0 +1,182 @@
+
+Información inicial
+ Presentación
+Información inicial
+Guía docente
+¡Preséntate!
+ Configurar entorno de trabajo
+Todo lo que necesitas para configurar tu entorno de trabajo
+Estructura para la aplicación web Red Social
+ Entorno de trabajo para Windows
+Entorno de trabajo para Windows
+Instalación Python 3
+Instalación VirtualEnv
+Instalación PyCharm
+ Entorno de trabajo para Mac
+Entorno de trabajo Mac
+Instalación Xcode
+Instalación Homebrew
+Instalación Python 3
+Instalación VirtualEnv
+Instalación PyCharm
+ Entorno de trabajo para Linux
+Todo lo que necesitas para configurar tu entorno de trabajo
+Instalación Python 3
+Instalación VirtualEnv
+Instalación PyCharm
+ La web
+ 1.1 La World Wide Web
+Unidad 1: WWW y sus aplicaciones
+Internet
+El origen de Internet
+Definición y origen de la World Wide Web
+ 1.2 Aplicaciones web
+Unidad 1  Este contenido es calificable
+Las características de una aplicación Web
+Funcionamiento del modelo cliente-servidor de las aplicaciones Web
+Evaluación 1: Internet
+ 2.1 HTML: para crear documentos Web
+Unidad 2  Este contenido es calificable
+Unidad 2: La web interactiva
+Introducción a HTML
+El lenguaje HTML
+Elementos HTML
+Evaluación 2: HTML
+Red Social: página de inicio
+Evaluación RS 1: Index
+ 2.2 Formularios: para crear la interfaz de comunicación con la aplicación Web
+Unidad 2  Este contenido es calificable
+Introducción a los formularios web
+Los elementos del formulario
+Red Social: Analizando el formulario login.html
+Red Social: Nuestro primer formulario
+Red Social: Formulario signup.html
+Red Social: Vamos a crear formulario para darse de alta
+Evaluación RS 2: Sign up
+Red Social: Formulario home.html
+Red Social: Vamos a crear formulario para escribir mensajes
+Evaluación RS 3: Home
+ 2.3 CSS: para definir el aspecto de nuestros documentos Web
+Unidad 2  Este contenido es calificable
+Introducción a CSS
+Red Social: CSS a login.html
+Red Social: CSS para el resto de páginas
+Reglas CSS
+Combinación de selectores y precedencia de reglas
+Evaluación 3: CSS
+Red Social: El fichero de reglas CSS
+Evaluación RS 4: CSS
+ La aplicación Web en el lado servidor
+ 3.1 Introducción al lenguaje de programación Python
+Unidad 3  Este contenido es calificable
+Unidad 3: Python y servidor
+Introducción a Python
+Propiedades de Python
+Evaluación 4: Propiedades Python
+Tipos de datos
+Evaluación 5: Estructuras de datos
+Sentencias de control de flujo y funciones
+Evaluación 6: Instrucciones de control del flujo
+ 3.2 Implementación del servidor Web: Python + Flask
+Unidad 3  Este contenido es calificable
+Programación del servidor
+Introducción a Python para implementar el Servidor Web
+Nuestro actual servidor web
+Respondiendo peticiones
+Rutas y funciones
+Retornos de funciones más complejos
+Funcionamiento de las soluciones propuestas
+Otras opciones de rutas
+Evaluación 7: Rutas y vistas
+ 3.3 Flask: respondiendo a peticiones del cliente
+Unidad 3  Este contenido es calificable
+Procesamiento de ficheros HTML separados
+Ejemplos de nuestra aplicación SocNet
+Red Social: ruta de fichero HTML estático
+Objeto “Request” (petición)
+Red Social: Ejemplo del objeto request
+Red Social: objeto request para login.html
+Evaluación 8: respondiendo peticiones
+ 3.4 Lenguaje de Templates
+Unidad 3  Este contenido es calificable
+Introducción a la codificación de templates (moldes)
+SocNet: templates
+Evaluación 9: templates
+Encuesta intermedia
+ 4.1 El lenguaje JSON
+Unidad 4  Este contenido es calificable
+Unidad 4: Programación del servidor: recordando lo importante
+JSON
+Introducción al formato JSON
+Sintaxis JSON: objetos y arrays
+Sintaxis JSON: legibilidad y datos anidados
+Ejemplo de uso de JSON: Modelo de Usuario de SocNet
+Lectura y escritura de JSON desde Python
+Evaluación 10: JSON
+ 4.2 Gestión de Sesiones
+Unidad 4  Este contenido es calificable
+Implementación de sesiones
+Formas de gestionar sesión
+Red Social: sesiones
+Red Social: mensajes de mis amigos
+Evaluación 11: Sesiones
+ La aplicación Web en el lado cliente
+ 5.1 JavaScript
+Unidad 5  Este contenido es calificable
+Unidad 5: El lado cliente
+Introducción a JavaScript
+Vistazo a la aplicación SocNet final
+El código JavaScript en el documento HTML
+Sentencias, variables y tipos de datos
+Sintaxis JavaScript
+Ejecución del código JavaScript
+Tu primer código JavaScript
+Eventos HTML
+Evaluación 12: JavaScript
+ 5.2 Document Object Model (DOM)
+Unidad 5  Este contenido es calificable
+Document Object Model (DOM)
+Acceso al árbol DOM con JavaScript
+Métodos para localizar elementos HTML
+Búsquedas en el árbol DOM
+Evaluación 13: DOM
+ 5.3 Validación de formularios
+Introducción a la validación de formularios
+Valor de un campo de tipo input
+Atributos para leer la información proporcionada por el usuario
+Validación de datos al ser introducidos por el usuario
+Validación de datos en el momento del envío al servidor
+Red Social: Validación de formularios
+ 5.4 DHTML
+Unidad 5  Este contenido es calificable
+Introducción
+Introducción a la funcionalidad DHTML
+Modificación dinámica del aspecto visual de un documento HTML
+Modificación dinámica del contenido de un documento HTML
+Red Social: Lista seleccionable de amigos
+Métodos y atributos de HTMLDocument y HTMLHtmlElement
+Propiedad innerHTML
+Red Social: mensajes de error integrados en la aplicación
+Evaluación 14: DHTML
+ 5.5 AJAX
+Unidad 5  Este contenido es calificable
+Introducción a AJAX
+Comunicación síncrona vs. asíncrona
+El objeto XMLHttpRequest
+Red Social: selección de amigo del que ver los mensajes
+Red Social: selección de amigo del que ver los mensajes
+Evaluación 15: AJAX
+ 5.6 jQuery
+jQuery
+Importar jQuery
+Filosofía jQuery
+Acceso y navegación por el árbol DOM del documento
+Acceso a la estructura del documento
+Recorrido de colecciones de elementos
+Tratamiento de eventos
+jQuery en nuestra red social
+Peticiones AJAX
+ Despedida
+
+
+
